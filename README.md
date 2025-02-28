@@ -23,9 +23,10 @@ Universitet).
 - Alexandre Leconte - [@Deleranax](https://github.com/Deleranax)
 > "Thank you helping us help you help us all."
 
-## Inspiration & Data source
+## Data source
 
-The data used in this project is from a Kaggle competition: "House Prices - Advanced Regression Techniques"[^1]. The
-dataset is under MIT license.
+The data used in this project is from a Kaggle competition: "House Prices - Advanced Regression Techniques":
+> Anna Montoya and DataCanary. House Prices - Advanced Regression Techniques.
+> https://kaggle.com/competitions/house-prices-advanced-regression-techniques, 2016. Kaggle.
 
-[1]: Anna Montoya and DataCanary. House Prices - Advanced Regression Techniques. https://kaggle.com/competitions/house-prices-advanced-regression-techniques, 2016. Kaggle.
+The dataset is under MIT license.
