@@ -18,9 +18,9 @@ Universitet).
 > Quote TODO
 - Kendrea Lam
 > Quote TODO
-- Jérémy Angulo - @Skysynth
+- Jérémy Angulo - [@Skysynth](https://github.com/Skysynth)
 > Quote TODO
-- Alexandre Leconte - @Deleranax
+- Alexandre Leconte - [@Deleranax](https://github.com/Deleranax)
 > "Thank you helping us help you help us all."
 
 ## Inspiration & Data source
