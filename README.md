@@ -12,21 +12,23 @@ Universitet).
 
 ## Contributors
 *Members of group 4*:
-- Till Henrik Schwiers
+- Till Henrik Schwiers [@Till-HS](https://github.com/Till-HS)
 > Quote TODO
-- Shiyuan Gu
+- Shiyuan Gu - [@1MGSY0](https://github.com/1MGSY0)
 > Quote TODO
-- Kendrea Lam
+- Kendrea Lam - [@kendreaa](https://github.com/kendreaa)
 > Quote TODO
 - Jérémy Angulo - [@Skysynth](https://github.com/Skysynth)
 > Quote TODO
 - Alexandre Leconte - [@Deleranax](https://github.com/Deleranax)
 > "Thank you helping us help you help us all."
 
-## Data source
+## Acknowledgments
 
-The data used in this project is from a Kaggle competition: "House Prices - Advanced Regression Techniques":
-> Anna Montoya and DataCanary. House Prices - Advanced Regression Techniques.
+This project is inspired by a Kaggle competition: "House Prices - Advanced Regression Techniques":
+> Anna Montoya and DataCanary. "House Prices - Advanced Regression Techniques."
 > https://kaggle.com/competitions/house-prices-advanced-regression-techniques, 2016. Kaggle.
 
-The dataset is under MIT license.
+The dataset was compiled Dean De Cock:
+> Dean De Cock. "Ames, Iowa: Alternative to the Boston housing data as an end of semester regression project." Journal
+> of Statistics Education 19.3 (2011).
