@@ -13,15 +13,15 @@ Universitet).
 ## Contributors
 *Members of group 4*:
 - Till Henrik Schwiers [@Till-HS](https://github.com/Till-HS)
-> Quote TODO
+    > Quote TODO
 - Shiyuan Gu - [@1MGSY0](https://github.com/1MGSY0)
-> Quote TODO
+    > Quote TODO
 - Kendrea Lam - [@kendreaa](https://github.com/kendreaa)
-> Quote TODO
+    > Quote TODO
 - Jérémy Angulo - [@Skysynth](https://github.com/Skysynth)
-> Quote TODO
+    > Quote TODO
 - Alexandre Leconte - [@Deleranax](https://github.com/Deleranax)
-> "Thank you helping us help you help us all."
+    > "Thank you helping us help you help us all."
 
 ## Acknowledgments
 
