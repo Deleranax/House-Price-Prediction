@@ -10,7 +10,7 @@ Universitet).
 > help investors decide where to put their money, and provide financial institutions with more secure data when
 > approving loans.
 
-##Version description
+## Version description
 main-ver1.1
 (Data preprocessing and feature exploration)
 
