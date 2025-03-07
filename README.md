@@ -10,12 +10,16 @@ Universitet).
 > help investors decide where to put their money, and provide financial institutions with more secure data when
 > approving loans.
 
+##Version description
+main-ver1.1
+(Data preprocessing and feature exploration)
+
 ## Contributors
 *Members of group 4*:
 - Till Henrik Schwiers [@Till-HS](https://github.com/Till-HS)
     > Quote TODO
 - Shiyuan Gu - [@1MGSY0](https://github.com/1MGSY0)
-    > Quote TODO
+    > "Prr"
 - Kendrea Lam - [@kendreaa](https://github.com/kendreaa)
     > Quote TODO
 - Jérémy Angulo - [@Skysynth](https://github.com/Skysynth)
