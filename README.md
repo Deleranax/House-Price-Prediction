@@ -21,7 +21,7 @@ main-ver1.1
 - Shiyuan Gu - [@1MGSY0](https://github.com/1MGSY0)
     > "Prr"
 - Kendrea Lam - [@kendreaa](https://github.com/kendreaa)
-    > Quote TODO
+    > :)
 - Jérémy Angulo - [@Skysynth](https://github.com/Skysynth)
     > "Zzzzzz"
 - Alexandre Leconte - [@Deleranax](https://github.com/Deleranax)
